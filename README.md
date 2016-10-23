@@ -30,3 +30,5 @@ Step 5
 Click on checkbox, that selects all players ("checkAllAccount").
 Script will group players by gold amount and selects them after "checkAllAccount" checkbox is clicked.
 After each payment you have to click "checkAllAccount" to select another groups of players. If no more groups available, script will show "done" alert box.
+
+*p.s. sorry for my bad English*
