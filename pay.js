@@ -56,3 +56,5 @@ document.getElementsByClassName("js-check-all-accounts")[0].parentElement.addEve
         alert("done");
     }
 });
+
+alert("Ready, select all players");
